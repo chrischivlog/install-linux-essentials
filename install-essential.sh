@@ -24,7 +24,11 @@ echo "install unzip"
 echo ""
 apt install unzip
 
-
+#install unzip
+echo ""
+echo "install sudo"
+echo ""
+apt install sudo
 
 #install java
 apt install default-jdk
